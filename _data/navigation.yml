@@ -1,7 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "DN"
+    url: /dn/ 
+  - title: "Assignments"
+    url: /assignments/
+  - title: "FP"
+    url: /fp/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/

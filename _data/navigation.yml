@@ -1,9 +1,9 @@
 main:
   - title: "DN"
     url: /dn/ 
-  - title: "Assignments"
+  - title: "ASSIGNMENTS"
     url: /assignments/
   - title: "FP"
     url: /fp/
-  - title: "Tags"
+  - title: "TAGS"
     url: /tags/
